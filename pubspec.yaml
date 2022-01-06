@@ -1,0 +1,55 @@
+name: electionzz
+description: Electionzz
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.3
+  random_string: ^2.0.1
+  firebase_core: ^0.4.5
+  firebase_database: ^3.1.6
+  cloud_firestore: ^0.13.7
+  rflutter_alert: ^1.0.3
+  percent_indicator: ^2.1.5
+  flutter_spinkit: ^2.1.0
+  firebase_auth: ^0.16.1
+  connectivity: ^0.4.9
+  toast: ^0.1.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/
+
+  fonts:
+    - family: Dark
+      fonts:
+        - asset: fonts/dark.ttf
+    - family: Ballo
+      fonts:
+        - asset: fonts/ballo.ttf
+
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages

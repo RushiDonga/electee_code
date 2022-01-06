@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "642432537995",
+    "firebase_url": "https://electee-updrage-default-rtdb.firebaseio.com",
+    "project_id": "electee-updrage",
+    "storage_bucket": "electee-updrage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642432537995:android:42b83ea07e15a437a6cb8e",
+        "android_client_info": {
+          "package_name": "com.scupe.electionzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642432537995-shjvehg1n39h4fi9ikkjlqgjeeder4c4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scupe.electionzz",
+            "certificate_hash": "7dcb0015d44f0489e197fe3c3e1de8c4a2824a53"
+          }
+        },
+        {
+          "client_id": "642432537995-j4pq0adn3ko9ih54tc66uvjvsc6bh1hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMWH5ckah6-lu1CxzQWjWw8Ks5hgbzriw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642432537995-j4pq0adn3ko9ih54tc66uvjvsc6bh1hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
